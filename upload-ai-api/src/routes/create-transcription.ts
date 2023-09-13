@@ -31,7 +31,7 @@ export async function createTranscriptionRoute(app: FastifyInstance) {
       file: audioReadStream,
       model: 'whisper-1',
       response_format: 'json',
-      language: 'en',
+      language: 'pt',
       temperature: 0,
       prompt,
     })
