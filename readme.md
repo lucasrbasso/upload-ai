@@ -11,7 +11,7 @@ Upload AI é uma ferramenta de geração de conteúdo online, como títulos, des
 
 ## Demo
 
-![teste](https://github.com/lucasrbasso/upload-ai/assets/55299115/1ca31b25-5183-4b5a-8c9d-4f9a4a458859)
+![teste](https://github.com/lucasrbasso/upload-ai/assets/55299115/f2d8de94-1d67-4a1a-9bf6-f5251e495442)
 
 ## Rodando a API local
 
